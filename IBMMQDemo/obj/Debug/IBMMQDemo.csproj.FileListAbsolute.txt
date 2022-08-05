@@ -1,0 +1,10 @@
+H:\workspace\IBMMQDemo\IBMMQDemo\bin\Debug\IBMMQDemo.exe.config
+H:\workspace\IBMMQDemo\IBMMQDemo\bin\Debug\IBMMQDemo.exe
+H:\workspace\IBMMQDemo\IBMMQDemo\bin\Debug\IBMMQDemo.pdb
+H:\workspace\IBMMQDemo\IBMMQDemo\obj\Debug\IBMMQDemo.csproj.CoreCompileInputs.cache
+H:\workspace\IBMMQDemo\IBMMQDemo\obj\Debug\IBMMQDemo.csproj.CopyComplete
+H:\workspace\IBMMQDemo\IBMMQDemo\obj\Debug\IBMMQDemo.exe
+H:\workspace\IBMMQDemo\IBMMQDemo\obj\Debug\IBMMQDemo.pdb
+H:\workspace\IBMMQDemo\IBMMQDemo\bin\Debug\Newtonsoft.Json.dll
+H:\workspace\IBMMQDemo\IBMMQDemo\bin\Debug\Newtonsoft.Json.xml
+H:\workspace\IBMMQDemo\IBMMQDemo\obj\Debug\IBMMQDemo.csproj.AssemblyReference.cache
